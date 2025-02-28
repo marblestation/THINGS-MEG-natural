@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DATA
+THINGS-data
+THINGS-MEG
+embeddings
+images 
+output/models/
+output/preprocessed/
